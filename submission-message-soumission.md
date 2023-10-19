@@ -2,19 +2,18 @@
 
 ##Nom de l'étudiant | Student Name:
 
-John Smith
+Sophie Lacelle Bastien
 
 ##GitHub Pages:
 
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
 
-https://jsmarier.github.io/Template-for-the-Website-Project/
+
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
-4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
-5. I used a font size of 18px in my paragraphs.
-6. Etc.
+1. J'ai changé la police d'écriture en changeant la font family
+2. à 12. j'ai changé toutes les couleurs de base de tout mon site
+13. j'ai changé la grandeur de mon texte pour "large"
+14. j'ai ajouté une légende en italique
+15. j'ai fait une classe pour mes titres en haut de la page

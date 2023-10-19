@@ -1,12 +1,17 @@
 html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
-    font-family: 'Young', serif;
+    font-family: 'Roboto';
+    font-style: normal;
     color: #1090ec;
 }
 
 body {
-    background-color:rgb(232, 249, 100);
+    background-color:rgb(100, 249, 194);
+}
+
+.texte {
+    color:black ; font-size: large;
 }
 
 .top-bar {
@@ -17,16 +22,16 @@ body {
 }
 
 .logo {
-   font-size: 30px;
+   font-size: 20px;
    position: absolute;
-   padding: 0px 0px 0px 20px;
+   padding: 2px 20px 20px 20px;
    z-index: 3;
    color: #591349;
    font-weight: bold;
 }
 
 .top-menu {
-   background-color: #195913;
+   background-color: #18bc09;
    position: absolute;
    top: 85px;
    z-index: 2;
@@ -45,17 +50,21 @@ body {
 }
 
 .top-menu li a:link, .top-menu li a:visited {
-    color: rgb(33, 204, 181);
+    color: rgb(245, 211, 16);
     text-decoration: none;
     padding: 20px 20px 20.5px 20px;
 }
 
 .top-menu li a:hover {
-    background-color: rgb(123, 20, 20);
+    background-color: rgb(239, 14, 97);
 }
 
 .current-page-link {
-    background-color: #0e23db;
+    background-color: #920151;
+}
+
+.titresophie {
+    color: white; font-size: 35px;
 }
 
 .page-content {
@@ -64,7 +73,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(218, 67, 150);
+    background-color: rgb(118, 250, 2);
     z-index: 1;
 }
 
