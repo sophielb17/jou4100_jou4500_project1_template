@@ -67,6 +67,10 @@ body {
     color: white; font-size: 35px;
 }
 
+.iframe {
+    border:0
+}
+
 .page-content {
     position: relative;
     top: 145px;
