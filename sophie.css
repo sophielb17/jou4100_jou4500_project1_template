@@ -67,6 +67,10 @@ body {
     color: white; font-size: 35px;
 }
 
+.titre2 {
+    color: rgb(35, 195, 253); font-size: 26px;
+}
+
 .iframe {
     border:0
 }
