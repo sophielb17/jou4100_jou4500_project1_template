@@ -93,6 +93,10 @@ body {
     color: rgb(224, 169, 5);
 }
 
+.iframe {
+    width="560" height="315"
+}
+
 .main-section figure, .main-section img {
     display: block;
     margin: auto;
