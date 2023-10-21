@@ -7,7 +7,7 @@ Sophie Lacelle Bastien
 ##GitHub Pages:
 
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
-
+file:///C:/Users/lacel/OneDrive/Bureau/jou4100_jou4500_project1_template/index.html
 
 
 ##CSS:
